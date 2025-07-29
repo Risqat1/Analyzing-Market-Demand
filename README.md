@@ -1,7 +1,7 @@
 # Jumia Market Demand Analysis
 
 ## TABLE OF CONTENT
-- [PROJECT OVERVIEW](#Market Demand Analysis -overview)
+- [PROJECT OVERVIEW]
 - [DATA SOURCE](#data-source)
 - [LANDING PAGE](#landing-page)
 - [TOOLS](#tools)
@@ -21,11 +21,11 @@ The dataset used in the analysis was sourced by scraping Jumia website using Jum
 
 ### LANDING PAGE
 This explains each columns in the dataset as follows:
-- Product Name: The title or name of the product listed in Jumia.
+- Product Name: The name of the product listed in Jumia.
 - Current Price: The Price at which the product is currently being sold.
 - Original Price: The original (pre-discount) price of the product.
 - Discount: The percentage reduction between the original and current price.
-- Brand: The Company or label associated with the product.
+- Brand: The Company associated with the product.
 - Ratings: The average customer satisfaction score(typically out of 5).
 - Reviews count: The number of customer reviews the product has received (Customer engagement).
 - Product Category: The category the product falls under (e.g. Electronics, beauty & health)
@@ -37,8 +37,8 @@ This explains each columns in the dataset as follows:
   - Microsoft Power point
  
  ### OBJECTIVES/KEY PERFORMANCE INDICATORS
-- OBJECTIVES
-To analyze customer interest and satisfaction across product categories using review count and average rating. The goal is to identify high-demand and high-engagement categories to inform category prioritization and pricing strategies for MyOnlineShop.
+### OBJECTIVES:
+ To analyze customer interest and satisfaction across product categories using review count and average rating. The goal is to identify high-demand and high-engagement   categories to inform category prioritization and pricing strategies for MyOnlineShop.
 
 
   ### DATA CLEANING
@@ -63,12 +63,13 @@ Key Performance Indicators (KPIs):
 
 
 ### DASHBOARD
+<img width="1187" height="655" alt="Screenshot 2025-07-28 200405" src="https://github.com/user-attachments/assets/1c58e65b-e254-45c0-bc5c-bc2fdcbfdac4" />
 
 
 
 ### INSIGHTS
 - Weighted Score by Product Category:
-Supermarket and Gaming categories have the highest weighted scores, showing strong customer engagement and satisfaction. Most other categories perform similarly, scoring just slightly lower. The score ranges from (18-20).
+Supermarket and Gaming categories have the highest weighted scores, showing strong customer engagement and satisfaction. other categories perform similarly, scoring just slightly lower. The score ranges from (18-20).
 
 - Average Review by Product Category:
 Phones & Tablets show the highest customer engagement(2,025) then health-beauty (1,116) based on review count, while Gaming and Baby Products have the lowest.
