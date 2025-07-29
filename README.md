@@ -1,7 +1,7 @@
 # Jumia Market Demand Analysis
 
 ## TABLE OF CONTENT
-- [PROJECT OVERVIEW](# Market Demand Analysis -overview)
+- [PROJECT OVERVIEW](#Market Demand Analysis -overview)
 - [DATA SOURCE](#data-source)
 - [LANDING PAGE](#landing-page)
 - [TOOLS](#tools)
@@ -55,11 +55,11 @@ To analyze customer interest and satisfaction across product categories using re
 
   ### DATA ANALYSIS
 Key Performance Indicators (KPIs):
-	-	Average Rating: 4.07
-  - Average Review Count:459.81
-	- Average Discount:28%
-	- Weighted Score: 18.44
-	- Total Review Count: 583k
+- Average Rating: 4.07
+- Average Review Count:459.81
+- Average Discount:28%
+- Weighted Score: 18.44
+- Total Review Count: 583k
 
 
 ### DASHBOARD
@@ -74,22 +74,20 @@ Supermarket and Gaming categories have the highest weighted scores, showing stro
 Phones & Tablets show the highest customer engagement(2,025) then health-beauty (1,116) based on review count, while Gaming and Baby Products have the lowest.
 
 - Average Rating by Product Category:
-	All  product categories maintain a high average rating (3.94 – 4.36), showing strong customer satisfaction overall and Supermarket has the highest customer satisfaction   (4.36), while Phones & Tablets have the lowest (3.94).
+	All  product categories maintain a high average rating (3.94 – 4.36), showing strong customer satisfaction overall and Supermarket has the highest customer satisfaction(4.36), while Phones & Tablets have the lowest (3.94).
 
 
 - Average Discount by Product Category:
 Computing (40%) and Phones & Tablets (34%) have the highest average discounts likely to attract buyers, clear inventory, or compete in crowded markets. Supermarket and Appliances have smaller discounts.
 
 - Product Category by Average Review & Average Rating:
-⦁	Phones & Tablets have the highest review count but the lowest ratings indicating high engagement but low customer satisfaction.
-⦁	Baby Products have a very low review count (26.69) but a good rating (4.08), suggesting low visibility but satisfied customers.
-⦁ Supermarket has the highest average rating (4.36) but low engagement.
+Phones & Tablets have the highest review count but the lowest ratings indicating high engagement but low customer satisfaction while Baby Products have a very low review count(26.69) but a good rating (4.08), suggesting low visibility but satisfied customers and Supermarket has the highest average rating (4.36) but low engagement.
 
 
 ### RECOMMENDATIONS
-⦁	Focus on high performing categories like Appliances and electronics so as to offer opportunities.
-⦁	Focus marketing on high- engagement categories for promotions. e.g Phone & tablets 
-⦁	Leverage discounts strategically to make more sales and use it to clear underperforming product.
-⦁	Customer satisfaction for all products should be a top priority.
+- Focus on high performing categories like Appliances and electronics so as to offer opportunities.
+- Focus marketing on high- engagement categories for promotions. e.g Phone & tablets 
+- Leverage discounts strategically to make more sales and use it to clear underperforming product.
+- Customer satisfaction for all products should be a top priority.
 
 
