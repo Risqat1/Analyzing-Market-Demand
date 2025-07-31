@@ -63,7 +63,8 @@ Key Performance Indicators (KPIs):
 
 
 ### DASHBOARD
-<img width="1187" height="655" alt="Screenshot 2025-07-28 200405" src="https://github.com/user-attachments/assets/1c58e65b-e254-45c0-bc5c-bc2fdcbfdac4" />
+<img width="1191" height="660" alt="Screenshot 2025-07-31 125022" src="https://github.com/user-attachments/assets/1f218e6b-013a-4844-abfe-29e657b72870" />
+
 
 
 
@@ -77,13 +78,14 @@ Phones & Tablets show the highest customer engagement(2,025) then health-beauty 
 - Average Rating by Product Category:
 	All  product categories maintain a high average rating (3.94 – 4.36), showing strong customer satisfaction overall and Supermarket has the highest customer satisfaction(4.36), while Phones & Tablets have the lowest (3.94).
 
-
 - Average Discount by Product Category:
 Computing (40%) and Phones & Tablets (34%) have the highest average discounts likely to attract buyers, clear inventory, or compete in crowded markets. Supermarket and Appliances have smaller discounts.
 
 - Product Category by Average Review & Average Rating:
 Phones & Tablets have the highest review count but the lowest ratings indicating high engagement but low customer satisfaction while Baby Products have a very low review count(26.69) but a good rating (4.08), suggesting low visibility but satisfied customers and Supermarket has the highest average rating (4.36) but low engagement.
 
+- Average Current price & original price by product category:
+This chart compares the original and current(discounted) prices across product categories to help understand how much discount is being applied and how prices are listed for products. Appliances, Electronics and Home-office products show significant price drops. e.g. Electronics has a original price of 114k and 64k current price while appliances has a original price of 106k original price and current price 77k.
 
 ### RECOMMENDATIONS
 - Focus on high performing categories like Appliances and electronics so as to offer opportunities.
